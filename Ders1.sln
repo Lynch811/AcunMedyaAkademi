@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders1", "Ders1\Ders1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders2", "Ders2\Ders2.csproj", "{BD44B1AB-002C-40BA-8017-DDA9404EF83A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders2Odev", "Ders2Odev\Ders2Odev.csproj", "{C4F56450-C21E-4568-853E-257E92125BEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BD44B1AB-002C-40BA-8017-DDA9404EF83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD44B1AB-002C-40BA-8017-DDA9404EF83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD44B1AB-002C-40BA-8017-DDA9404EF83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F56450-C21E-4568-853E-257E92125BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F56450-C21E-4568-853E-257E92125BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F56450-C21E-4568-853E-257E92125BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F56450-C21E-4568-853E-257E92125BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
