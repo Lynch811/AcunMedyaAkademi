@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\bin\Debug\net8.0\Ders1.exe
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\bin\Debug\net8.0\Ders1.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\bin\Debug\net8.0\Ders1.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\bin\Debug\net8.0\Ders1.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\bin\Debug\net8.0\Ders1.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\refint\Ders1.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\Ders1.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders1\obj\Debug\net8.0\ref\Ders1.dll
