@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD44B1AB-002C-40BA-8017-DDA9404EF83A}|Ders2\\Ders2.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders1\\ders2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44B1AB-002C-40BA-8017-DDA9404EF83A}|Ders2\\Ders2.csproj|solutionrelative:ders2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44B1AB-002C-40BA-8017-DDA9404EF83A}|Ders2\\Ders2.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders1\\ders2\\interfaces\\iozellik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44B1AB-002C-40BA-8017-DDA9404EF83A}|Ders2\\Ders2.csproj|solutionrelative:ders2\\interfaces\\iozellik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E5E943E-C449-4CAA-84DB-8BDE9C5B2BB8}|Ders1\\Ders1.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders1\\ders1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E5E943E-C449-4CAA-84DB-8BDE9C5B2BB8}|Ders1\\Ders1.csproj|solutionrelative:ders1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOzellik.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders1\\Ders2\\Interfaces\\IOzellik.cs",
+              "RelativeDocumentMoniker": "Ders2\\Interfaces\\IOzellik.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders1\\Ders2\\Interfaces\\IOzellik.cs",
+              "RelativeToolTip": "Ders2\\Interfaces\\IOzellik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:08:07.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders1\\Ders2\\Program.cs",
+              "RelativeDocumentMoniker": "Ders2\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders1\\Ders2\\Program.cs",
+              "RelativeToolTip": "Ders2\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:04.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders1\\Ders1\\Program.cs",
               "RelativeDocumentMoniker": "Ders1\\Program.cs",
