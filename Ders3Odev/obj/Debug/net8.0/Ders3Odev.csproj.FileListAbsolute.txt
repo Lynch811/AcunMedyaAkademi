@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\bin\Debug\net8.0\Ders3Odev.exe
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\bin\Debug\net8.0\Ders3Odev.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\bin\Debug\net8.0\Ders3Odev.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\bin\Debug\net8.0\Ders3Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\bin\Debug\net8.0\Ders3Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\refint\Ders3Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\Ders3Odev.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3Odev\obj\Debug\net8.0\ref\Ders3Odev.dll
