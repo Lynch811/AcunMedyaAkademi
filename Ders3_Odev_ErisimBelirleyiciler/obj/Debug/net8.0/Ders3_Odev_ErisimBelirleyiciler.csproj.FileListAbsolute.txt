@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\bin\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.exe
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\bin\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\bin\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\bin\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\bin\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\refint\Ders3_Odev_ErisimBelirleyiciler.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\Ders3_Odev_ErisimBelirleyiciler.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Ders3_Odev_ErisimBelirleyiciler\obj\Debug\net8.0\ref\Ders3_Odev_ErisimBelirleyiciler.dll

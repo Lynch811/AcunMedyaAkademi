@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3", "Ders3\Ders3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3Odev", "Ders3Odev\Ders3Odev.csproj", "{1FB107D5-FE54-4E12-8CCD-731D87E425FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3_Odev_ErisimBelirleyiciler", "Ders3_Odev_ErisimBelirleyiciler\Ders3_Odev_ErisimBelirleyiciler.csproj", "{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4", "Ders4\Ders4.csproj", "{3AB38E1D-18DE-4DCE-8545-9602C7966827}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{1FB107D5-FE54-4E12-8CCD-731D87E425FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FB107D5-FE54-4E12-8CCD-731D87E425FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FB107D5-FE54-4E12-8CCD-731D87E425FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB38E1D-18DE-4DCE-8545-9602C7966827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB38E1D-18DE-4DCE-8545-9602C7966827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB38E1D-18DE-4DCE-8545-9602C7966827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB38E1D-18DE-4DCE-8545-9602C7966827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

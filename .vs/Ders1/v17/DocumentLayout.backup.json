@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3_odev_erisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|solutionrelative:ders3_odev_erisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\porscheyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\porscheyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\mercedesyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\mercedesyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\bmwyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\bmwyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\yakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\yakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6DE9C4-DDF3-4DFB-A260-52AE7D79EBA6}|Ders3\\Ders3.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6DE9C4-DDF3-4DFB-A260-52AE7D79EBA6}|Ders3\\Ders3.csproj|solutionrelative:ders3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3odev\\abstractionodev\\abstract\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB107D5-FE54-4E12-8CCD-731D87E425FE}|Ders3Odev\\Ders3Odev.csproj|solutionrelative:ders3odev\\abstractionodev\\abstract\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6DE9C4-DDF3-4DFB-A260-52AE7D79EBA6}|Ders3\\Ders3.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3\\abstracts\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6DE9C4-DDF3-4DFB-A260-52AE7D79EBA6}|Ders3\\Ders3.csproj|solutionrelative:ders3\\abstracts\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6DE9C4-DDF3-4DFB-A260-52AE7D79EBA6}|Ders3\\Ders3.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3\\abstracts\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6DE9C4-DDF3-4DFB-A260-52AE7D79EBA6}|Ders3\\Ders3.csproj|solutionrelative:ders3\\abstracts\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3_odev_erisimbelirleyiciler\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|solutionrelative:ders3_odev_erisimbelirleyiciler\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,171 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "YakitTuketimi.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\YakitTuketimi.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\YakitTuketimi.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\YakitTuketimi.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\YakitTuketimi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
+              "RelativeDocumentMoniker": "Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
+              "RelativeToolTip": "Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:42:29.911Z",
+              "WhenOpened": "2025-03-11T19:01:11.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PorscheYakitTuketimi.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\PorscheYakitTuketimi.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\PorscheYakitTuketimi.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\PorscheYakitTuketimi.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\PorscheYakitTuketimi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
+              "RelativeToolTip": "Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:42:20.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MercedesYakitTuketimi.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\MercedesYakitTuketimi.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\MercedesYakitTuketimi.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\MercedesYakitTuketimi.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\MercedesYakitTuketimi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:42:07.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BmwYakitTuketimi.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\BmwYakitTuketimi.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\BmwYakitTuketimi.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\BmwYakitTuketimi.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\BmwYakitTuketimi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:41:49.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3\\Program.cs",
-              "RelativeDocumentMoniker": "Ders3\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3\\Program.cs",
-              "RelativeToolTip": "Ders3\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:34:34.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\Program.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\Program.cs",
-              "RelativeToolTip": "Ders3Odev\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:30:13.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Stajyer.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Stajyer.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\Stajyer.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Stajyer.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\Stajyer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:26:20.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Programci.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Programci.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\Programci.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Programci.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\Programci.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:26:14.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Mudur.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Mudur.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\Mudur.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Mudur.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\Mudur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:26:06.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GenelMudur.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\GenelMudur.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\GenelMudur.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\GenelMudur.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\GenelMudur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:25:59.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Calisan.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Calisan.cs",
-              "RelativeDocumentMoniker": "Ders3Odev\\AbstractionOdev\\Abstract\\Calisan.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3Odev\\AbstractionOdev\\Abstract\\Calisan.cs",
-              "RelativeToolTip": "Ders3Odev\\AbstractionOdev\\Abstract\\Calisan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:23:51.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GenelMudur.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3\\Abstracts\\GenelMudur.cs",
-              "RelativeDocumentMoniker": "Ders3\\Abstracts\\GenelMudur.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3\\Abstracts\\GenelMudur.cs",
-              "RelativeToolTip": "Ders3\\Abstracts\\GenelMudur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:23:26.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Calisan.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3\\Abstracts\\Calisan.cs",
-              "RelativeDocumentMoniker": "Ders3\\Abstracts\\Calisan.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3\\Abstracts\\Calisan.cs",
-              "RelativeToolTip": "Ders3\\Abstracts\\Calisan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:23:22.599Z",
+              "WhenOpened": "2025-03-11T18:40:04.817Z",
               "EditorCaption": ""
             }
           ]
