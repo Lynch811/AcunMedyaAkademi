@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\bin\Debug\net8.0\Loop_Condition_Odev.exe
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\bin\Debug\net8.0\Loop_Condition_Odev.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\bin\Debug\net8.0\Loop_Condition_Odev.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\bin\Debug\net8.0\Loop_Condition_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\bin\Debug\net8.0\Loop_Condition_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\refint\Loop_Condition_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\Loop_Condition_Odev.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\Loop_Condition_Odev\obj\Debug\net8.0\ref\Loop_Condition_Odev.dll

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3_odev_erisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|solutionrelative:ders3_odev_erisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders3_odev_erisimbelirleyiciler\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CACFD7DB-7D13-473D-8083-C9BBBE18DCAF}|Ders3_Odev_ErisimBelirleyiciler\\Ders3_Odev_ErisimBelirleyiciler.csproj|solutionrelative:ders3_odev_erisimbelirleyiciler\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E976D10B-23A8-427D-B41B-ADD502D1FD34}|Loop_Condition_Odev\\Loop_Condition_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\loop_condition_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E976D10B-23A8-427D-B41B-ADD502D1FD34}|Loop_Condition_Odev\\Loop_Condition_Odev.csproj|solutionrelative:loop_condition_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
-              "RelativeDocumentMoniker": "Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
-              "RelativeToolTip": "Ders3_Odev_ErisimBelirleyiciler\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Loop_Condition_Odev\\Program.cs",
+              "RelativeDocumentMoniker": "Loop_Condition_Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Loop_Condition_Odev\\Program.cs",
+              "RelativeToolTip": "Loop_Condition_Odev\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwHcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T19:01:11.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
-              "RelativeDocumentMoniker": "Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
-              "RelativeToolTip": "Ders3_Odev_ErisimBelirleyiciler\\Classes\\User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:40:04.817Z",
+              "WhenOpened": "2025-03-12T19:42:06.445Z",
               "EditorCaption": ""
             }
           ]

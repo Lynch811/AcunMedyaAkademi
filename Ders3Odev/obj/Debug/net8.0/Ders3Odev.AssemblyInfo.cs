@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders3Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b9ffdf6f00aa2dfc7acbad02899c108002aad8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9bb74de439e2f53e0d541ad77ae804a5e9dce0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders3Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders3Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
