@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E976D10B-23A8-427D-B41B-ADD502D1FD34}|Loop_Condition_Odev\\Loop_Condition_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\loop_condition_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E976D10B-23A8-427D-B41B-ADD502D1FD34}|Loop_Condition_Odev\\Loop_Condition_Odev.csproj|solutionrelative:loop_condition_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\classes\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\classes\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +34,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Classes\\Insan.cs",
+              "RelativeDocumentMoniker": "Ders5\\Classes\\Insan.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Classes\\Insan.cs",
+              "RelativeToolTip": "Ders5\\Classes\\Insan.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:21:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Loop_Condition_Odev\\Program.cs",
-              "RelativeDocumentMoniker": "Loop_Condition_Odev\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Loop_Condition_Odev\\Program.cs",
-              "RelativeToolTip": "Loop_Condition_Odev\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAqwHcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Program.cs",
+              "RelativeDocumentMoniker": "Ders5\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Program.cs*",
+              "RelativeToolTip": "Ders5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T19:42:06.445Z",
+              "WhenOpened": "2025-03-15T13:50:59.855Z",
               "EditorCaption": ""
             }
           ]
