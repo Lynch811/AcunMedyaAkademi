@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.exe
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\refint\HesapMakinesi.dll
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.pdb
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademi\HesapMakinesi\obj\Debug\net8.0\ref\HesapMakinesi.dll
