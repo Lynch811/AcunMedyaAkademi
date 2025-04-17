@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>a</Name>
+  <Phone>b</Phone>
+  <DoB>2025-04-13T17:51:21.248</DoB>
+  <Department>c</Department>
+  <Salary>12</Salary>
+</Employee>

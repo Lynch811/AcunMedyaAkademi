@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders5", "Ders5\Ders5.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "HesapMakinesi\HesapMakinesi.csproj", "{0335539F-ABC3-467E-AC91-69427B90860E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders7", "Ders7\Ders7.csproj", "{249DE52C-C918-4128-B16A-7FFC14E614E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders8", "Ders8\Ders8.csproj", "{9CE9701E-D128-4580-96DA-DEC1CB734955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{0335539F-ABC3-467E-AC91-69427B90860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0335539F-ABC3-467E-AC91-69427B90860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0335539F-ABC3-467E-AC91-69427B90860E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249DE52C-C918-4128-B16A-7FFC14E614E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249DE52C-C918-4128-B16A-7FFC14E614E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249DE52C-C918-4128-B16A-7FFC14E614E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249DE52C-C918-4128-B16A-7FFC14E614E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE9701E-D128-4580-96DA-DEC1CB734955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE9701E-D128-4580-96DA-DEC1CB734955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE9701E-D128-4580-96DA-DEC1CB734955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE9701E-D128-4580-96DA-DEC1CB734955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

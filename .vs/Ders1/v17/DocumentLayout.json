@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C46C75C-A676-4572-867C-4A0D7E48495F}|Namespace_Odev\\Namespace_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\namespace_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C46C75C-A676-4572-867C-4A0D7E48495F}|Namespace_Odev\\Namespace_Odev.csproj|solutionrelative:namespace_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|solutionrelative:ders8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C46C75C-A676-4572-867C-4A0D7E48495F}|Namespace_Odev\\Namespace_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\namespace_odev\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C46C75C-A676-4572-867C-4A0D7E48495F}|Namespace_Odev\\Namespace_Odev.csproj|solutionrelative:namespace_odev\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\ders8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|solutionrelative:ders8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders8\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|solutionrelative:ders8\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\constructors\\yeniinsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\constructors\\yeniinsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\constructors\\kafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\constructors\\kafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\constructors\\burun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\constructors\\burun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\constructors\\kulak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\constructors\\kulak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders5\\constructors\\goz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7169DFD2-1E4C-445A-837E-8755C0AE0E53}|Ders5\\Ders5.csproj|solutionrelative:ders5\\constructors\\goz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|c:\\users\\talha\\documents\\acunmedyaakademi\\ders8\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9701E-D128-4580-96DA-DEC1CB734955}|Ders8\\Ders8.csproj|solutionrelative:ders8\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,102 +42,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Namespace_Odev\\Program.cs",
-              "RelativeDocumentMoniker": "Namespace_Odev\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Namespace_Odev\\Program.cs",
-              "RelativeToolTip": "Namespace_Odev\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:51:15.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Hesaplama.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Namespace_Odev\\Hesaplama.cs",
-              "RelativeDocumentMoniker": "Namespace_Odev\\Hesaplama.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Namespace_Odev\\Hesaplama.cs",
-              "RelativeToolTip": "Namespace_Odev\\Hesaplama.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:51:12.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Program.cs",
-              "RelativeDocumentMoniker": "Ders5\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Program.cs",
-              "RelativeToolTip": "Ders5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "Ders8\\Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Classes\\Product.cs",
+              "RelativeToolTip": "Ders8\\Classes\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:23:01.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:33:32.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "YeniInsan.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\YeniInsan.cs",
-              "RelativeDocumentMoniker": "Ders5\\Constructors\\YeniInsan.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\YeniInsan.cs",
-              "RelativeToolTip": "Ders5\\Constructors\\YeniInsan.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAALAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "Ders8\\Classes\\Employee.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Classes\\Employee.cs",
+              "RelativeToolTip": "Ders8\\Classes\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:11:27.088Z"
+              "WhenOpened": "2025-04-12T14:34:36.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Kafa.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Kafa.cs",
-              "RelativeDocumentMoniker": "Ders5\\Constructors\\Kafa.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Kafa.cs",
-              "RelativeToolTip": "Ders5\\Constructors\\Kafa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Form1.cs",
+              "RelativeDocumentMoniker": "Ders8\\Form1.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Form1.cs [Design]",
+              "RelativeToolTip": "Ders8\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:06:32.451Z"
+              "WhenOpened": "2025-04-12T14:31:56.076Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Burun.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Burun.cs",
-              "RelativeDocumentMoniker": "Ders5\\Constructors\\Burun.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Burun.cs",
-              "RelativeToolTip": "Ders5\\Constructors\\Burun.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Form1.cs",
+              "RelativeDocumentMoniker": "Ders8\\Form1.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders8\\Form1.cs",
+              "RelativeToolTip": "Ders8\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwFEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:05:05.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Kulak.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Kulak.cs",
-              "RelativeDocumentMoniker": "Ders5\\Constructors\\Kulak.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Kulak.cs",
-              "RelativeToolTip": "Ders5\\Constructors\\Kulak.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:04:04.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Goz.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Goz.cs",
-              "RelativeDocumentMoniker": "Ders5\\Constructors\\Goz.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademi\\Ders5\\Constructors\\Goz.cs",
-              "RelativeToolTip": "Ders5\\Constructors\\Goz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:00:29.214Z"
+              "WhenOpened": "2025-04-12T14:31:10.261Z",
+              "EditorCaption": ""
             }
           ]
         }
